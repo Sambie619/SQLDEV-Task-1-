@@ -15,7 +15,7 @@ Design and implement a relational schema for a library system.
 - Generated ER diagram from schema
 
 ## Files
-- `LibraryDB`: SQL script to create the schema
+- `r2.sql`: SQL script to create the schema
 - `ERDiagram.png`: Screenshot of the ER diagram
 
 ## Concepts Applied
